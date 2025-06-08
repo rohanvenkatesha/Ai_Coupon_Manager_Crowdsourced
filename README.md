@@ -230,10 +230,3 @@ Make sure to set `OPENAI_API_KEY` in your environment before running Docker Comp
 
 ---
 
-## License
-
-MIT License © \[Your Name]
-
----
-
-If you want, I can also generate a frontend README later when you share your frontend code. Let me know!

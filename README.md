@@ -75,7 +75,7 @@ This will:
 #### 1. Install dependencies
 
 ```bash
-cd frontend
+cd ai-coupon-frontend
 npm install
 ```
 

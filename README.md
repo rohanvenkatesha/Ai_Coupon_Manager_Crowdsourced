@@ -2,6 +2,8 @@
 
 A full-stack web application that uses AI to generate, validate, and manage discount coupons — with a modern frontend built in **Next.js** and a backend powered by **FastAPI**, **PostgreSQL**, **SQLAlchemy**, and **OpenAI**.
 
+![Project Banner](https://raw.githubusercontent.com/rohanvenkatesha/Ai_Coupon_Manager_Crowdsourced/main/Test_images/Submitting%20Coupon.png)
+
 ---
 
 ## 📦 Features
@@ -12,6 +14,27 @@ A full-stack web application that uses AI to generate, validate, and manage disc
 - 🗃️ PostgreSQL-backed storage
 - 🌐 Dockerized development
 - 💡 Future-ready AI rating integration
+
+---
+
+### 🔹 Submit Coupon
+
+* Enter store, discount, and expiry
+* Optionally generate a code with AI
+
+### 🔹 Validate Coupon
+
+* Type a code or description (e.g. "coupon for Amazon")
+* AI finds the best match
+
+![Validating Coupon](https://raw.githubusercontent.com/rohanvenkatesha/Ai_Coupon_Manager_Crowdsourced/main/Test_images/Validating%20Coupon.png)
+
+### 🔹 Browse by Store
+
+* View all coupons for a specific store
+* Vote on whether a coupon worked
+
+![Validating by Store](https://raw.githubusercontent.com/rohanvenkatesha/Ai_Coupon_Manager_Crowdsourced/main/Test_images/valditing%20coupon%20store%20wise.png)
 
 ---
 
